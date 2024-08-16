@@ -1,0 +1,16 @@
+{
+  "codename": "Title",
+  "ttf_path": "/assets/Roboto-Medium.ttf",
+  "bin_path": "/assets/ui_font_Title.bin",
+  "c_path": "/assets/ui_font_Title.c",
+  "cfg_path": "/assets/ui_font_Title.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
